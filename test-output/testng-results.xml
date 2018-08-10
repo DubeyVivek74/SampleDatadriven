@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43283" started-at="2018-08-10T17:29:50Z" finished-at="2018-08-10T17:30:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43283" started-at="2018-08-10T17:29:50Z" finished-at="2018-08-10T17:30:33Z">
+      <class name="datadrive.Testcasedriven">
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="setup" is-config="true" duration-ms="5871" started-at="2018-08-10T22:59:51Z" finished-at="2018-08-10T22:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainBody(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="mainBody" duration-ms="780" started-at="2018-08-10T22:59:57Z" data-provider="getTestData" finished-at="2018-08-10T22:59:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GRID1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WEBDRIVER1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RESTASSURED1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BROWSERSTACK1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PROTRACTOR1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="teardown" is-config="true" duration-ms="1010" started-at="2018-08-10T22:59:58Z" finished-at="2018-08-10T22:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="setup" is-config="true" duration-ms="5571" started-at="2018-08-10T22:59:59Z" finished-at="2018-08-10T23:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainBody(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="mainBody" duration-ms="1175" started-at="2018-08-10T23:00:04Z" data-provider="getTestData" finished-at="2018-08-10T23:00:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GRID2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WEBDRIVER2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RESTASSURED2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BROWSERSTACK2]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PROTRACTOR2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="teardown" is-config="true" duration-ms="1020" started-at="2018-08-10T23:00:06Z" finished-at="2018-08-10T23:00:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="setup" is-config="true" duration-ms="4506" started-at="2018-08-10T23:00:07Z" finished-at="2018-08-10T23:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainBody(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="mainBody" duration-ms="580" started-at="2018-08-10T23:00:11Z" data-provider="getTestData" finished-at="2018-08-10T23:00:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GRID3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WEBDRIVER3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RESTASSURED3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BROWSERSTACK3]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PROTRACTOR3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="teardown" is-config="true" duration-ms="1010" started-at="2018-08-10T23:00:12Z" finished-at="2018-08-10T23:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="setup" is-config="true" duration-ms="3743" started-at="2018-08-10T23:00:13Z" finished-at="2018-08-10T23:00:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainBody(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="mainBody" duration-ms="560" started-at="2018-08-10T23:00:17Z" data-provider="getTestData" finished-at="2018-08-10T23:00:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GRID4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WEBDRIVER4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RESTASSURED4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BROWSERSTACK4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PROTRACTOR4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="teardown" is-config="true" duration-ms="1010" started-at="2018-08-10T23:00:17Z" finished-at="2018-08-10T23:00:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="setup" is-config="true" duration-ms="5861" started-at="2018-08-10T23:00:18Z" finished-at="2018-08-10T23:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainBody(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="mainBody" duration-ms="1295" started-at="2018-08-10T23:00:24Z" data-provider="getTestData" finished-at="2018-08-10T23:00:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GRID5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WEBDRIVER5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RESTASSURED5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BROWSERSTACK5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PROTRACTOR5]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="teardown" is-config="true" duration-ms="1010" started-at="2018-08-10T23:00:25Z" finished-at="2018-08-10T23:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="setup" is-config="true" duration-ms="4911" started-at="2018-08-10T23:00:26Z" finished-at="2018-08-10T23:00:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mainBody(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="mainBody" duration-ms="1065" started-at="2018-08-10T23:00:31Z" data-provider="getTestData" finished-at="2018-08-10T23:00:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GRID6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WEBDRIVER6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[RESTASSURED6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BROWSERSTACK6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[PROTRACTOR6]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1234.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainBody -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:datadrive.Testcasedriven@3f4d3d]" name="teardown" is-config="true" duration-ms="1015" started-at="2018-08-10T23:00:32Z" finished-at="2018-08-10T23:00:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- datadrive.Testcasedriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
